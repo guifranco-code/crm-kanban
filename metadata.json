@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban - Gestão de Tarefas e Oportunidades",
+  "description": "CRM com quadro Kanban personalizável conectado ao Supabase para gerenciamento manual de tarefas e negócios nos status Não iniciado, Em Andamento e Finalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
